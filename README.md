@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **completing my full-stack bootcamp**
 
-- 🌱 I’m currently learning **Full-Stack**
+- 🌱 I’m currently learning **How to make my own Pokemon game**
 
 - 📫 How to reach me **Send a message on LinkedIn!**
 
