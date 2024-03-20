@@ -1,9 +1,7 @@
 <h1 align="center">Aloha 🤙🏽, I'm Keoni</h1>
 <h3 align="center">A passionate full-stack developer from Hawaii</h3>
 
-- 🔭 I’m currently working on **completing my full-stack bootcamp**
-
-- 🌱 I’m currently learning **How to make my own Pokemon game**
+- 🌱 I’m currently learning **Python Coding Language!**
 
 - 📫 How to reach me **Send a message on LinkedIn!**
 
