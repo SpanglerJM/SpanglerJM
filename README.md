@@ -1,4 +1,4 @@
-<h1 align="center">Aloha 🤙🏽, I'm Keoni</h1>
+<h1 align="center">Aloha 🤙🏽, I'm John</h1>
 <h3 align="center">A passionate full-stack developer from Hawaii</h3>
 
 - 🌱 I’m currently learning ** Generative AI **
