@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 🤙🏽, I'm John</h1>
 <h3 align="center">A passionate full-stack developer from Hawaii</h3>
 
-- 🌱 I’m currently learning ** Generative AI **
+- 🌱 I’m currently learning ** CompTIA A+ Network **
 
 - 📫 How to reach me **Send a message on LinkedIn!**
 
