@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning ** CompTIA A+ Network **
 
+- 🪻 Short term goals ** Get a few CyberSecurity certifications and see if it is something I want to persue further. **
+
 - 📫 How to reach me **Send a message on LinkedIn!**
 
 <h3 align="left">Connect with me:</h3>
