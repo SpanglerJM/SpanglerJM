@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ** CompTIA A+ Certification **
 
-- 🪻 Short term goals ** Get a few CyberSecurity certifications and become an ultimate computer programmer knowing the insides and out of every machine I work on. **
+- 🪻 Short term goals ** Pursue Advanced CyberSecurity Certifications and Develop Comprehensive Expertise in Computer Programming **
 
 - 📫 How to reach me **Send a message on LinkedIn!**
 
