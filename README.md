@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 🤙🏽, I'm John</h1>
 <h3 align="center">A passionate full-stack developer from Hawaii</h3>
 
-- 🌱 I’m currently learning ** CompTIA A+ Network **
+- 🌱 I’m currently learning ** CompTIA A+ Certification **
 
 - 🪻 Short term goals ** Get a few CyberSecurity certifications and see if it is something I want to persue further. **
 
